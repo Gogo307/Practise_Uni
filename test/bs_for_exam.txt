@@ -1,0 +1,5 @@
+int a -> kakvo ]e izleze pri cout << a; -> kakvoto ima v pametta
+
+2) 
+  Целочислени променливи 
+  short 2 =16bytes -> 2^16 range, int4  long 8 long long 16, unsigned samo + `isla -> [0,2^32! - 1]
